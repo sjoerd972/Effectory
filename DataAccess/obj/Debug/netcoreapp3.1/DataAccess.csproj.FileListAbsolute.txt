@@ -1,0 +1,11 @@
+C:\Users\sjoer\source\repos\Effectory\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\sjoer\source\repos\Effectory\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\sjoer\source\repos\Effectory\DataAccess\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\sjoer\source\repos\Effectory\DataAccess\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\sjoer\source\repos\Effectory\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\sjoer\source\repos\Effectory\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\sjoer\source\repos\Effectory\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\sjoer\source\repos\Effectory\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\sjoer\source\repos\Effectory\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\sjoer\source\repos\Effectory\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\sjoer\source\repos\Effectory\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

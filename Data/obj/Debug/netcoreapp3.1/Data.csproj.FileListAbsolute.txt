@@ -1,0 +1,8 @@
+C:\Users\sjoer\source\repos\Effectory\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\sjoer\source\repos\Effectory\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\sjoer\source\repos\Effectory\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\sjoer\source\repos\Effectory\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\sjoer\source\repos\Effectory\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\sjoer\source\repos\Effectory\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\sjoer\source\repos\Effectory\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\sjoer\source\repos\Effectory\Data\obj\Debug\netcoreapp3.1\Data.pdb

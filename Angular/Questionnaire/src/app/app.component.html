@@ -1,0 +1,15 @@
+<div class="container">
+  <form>
+    <div class="form-group">
+      <h1 class="text-center text-primary">Questionnaire Assessment</h1>
+      <div class="input-group-prepend">
+        <input type="text" name="email" />
+        <input type="button" name="emailBtn" title="Email address" />
+      </div>
+      <div class="input-group-prepend">
+        <a *ngFor="let survey of surveys; let i = index" routerlink="detail" routerLinkActive="active">Survey: {{survey.title}} ({{survey.id}})</a>
+      </div>
+    </div>
+    <router-outlet></router-outlet>
+  </form>
+</div>

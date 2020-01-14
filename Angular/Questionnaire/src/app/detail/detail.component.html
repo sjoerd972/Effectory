@@ -1,0 +1,13 @@
+<div class="container">
+  <form>
+    <div class="form-group">
+      <h1 class="text-center text-primary">Questionnaire Assessment - Detail</h1>
+      <div class="input-group-prepend">
+        <div *ngFor="let question of questions; let i = index">
+          <span>{{question.text}}</span>
+          <!--<span>{{question.}}</span>-->
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
